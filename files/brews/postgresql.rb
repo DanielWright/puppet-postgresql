@@ -1,5 +1,6 @@
 class Postgresql < Formula
   homepage "http://www.postgresql.org/"
+  version "9.4.1-boxen"
 
   stable do
     url "http://ftp.postgresql.org/pub/source/v9.4.1/postgresql-9.4.1.tar.bz2"
